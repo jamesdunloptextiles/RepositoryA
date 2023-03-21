@@ -3,7 +3,7 @@
 //
 // ActivityID that is sent for the statement's object
 //
-TC_COURSE_ID = "http://jdg_sap101_test"
+TC_COURSE_ID = "http://jdg_sap101"
 
 //
 // CourseName for the activity
